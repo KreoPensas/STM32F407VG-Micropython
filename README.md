@@ -1,6 +1,6 @@
 # STM32F407VG & Micropython
 
-### Please feel free to fork, copy, adapt if you find it useabl
+### Please feel free to fork, copy, adapt if you find it useable
 
 Updated for micropython 1.16
 
